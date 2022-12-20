@@ -1,7 +1,8 @@
 """
 Desafio032:
-
+Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
 """
+
 
 from datetime import date
 ano = int(input('\033[1mQue ano quer analisar?\033[m Para descobrir se o atual ano é \033[1mBISSEXTO, apenas digite 0 '))

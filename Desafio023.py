@@ -1,6 +1,9 @@
 """
 Desafio023:
-
+Faça um programa que leia um número de 0 a 9999 e mostre na leta, separadamente, cada um dos digitos.
+Ex.:
+Digite um número: 1834
+unidade: 4   dezena: 3   centena: 8    milhar: 1
 """
 
 num = int(input('Informe um número: '))
