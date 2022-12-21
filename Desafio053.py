@@ -1,7 +1,8 @@
 """
+Desafio053:
 Crie um programa que leia uma frase qualquer
- e diga se ela é um palíndromo, descosiderando os espaços.
- """
+e diga se ela é um palíndromo, descosiderando os espaços.
+"""
 
 
 f = str(input('Digite uma frase: ')).strip().upper()
@@ -18,4 +19,3 @@ if i == j:
     print('Temos um \033[36mPALÍNDROMO\033[m!')
 else:
     print('A frase digitada \033[31mNÃO é um PALÍNDROMO\033[m!')
-
