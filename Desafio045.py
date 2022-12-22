@@ -1,5 +1,5 @@
 """
-Desafio045:
+Desafio 045:
 Crie um programa que faça o jogador jogar Jokenpô com você.
 """
 

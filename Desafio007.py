@@ -1,5 +1,5 @@
 """
-Desafio007:
+Desafio 007:
 Faça um programa que leia as duas notas de um aluno, depois calcule e mostre a sua média entre as notas.
 """
 

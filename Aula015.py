@@ -1,11 +1,11 @@
-######## INTERROMPENDO REPETIÇÔES 'WHILE' ########
+#     INTERROMPENDO REPETIÇÔES 'WHILE'     #
 
 
 # O comando 'break' quebra o laço 'while'.
 
 
+#  Esse código vai ficar com loop infinito
 
-# Esse código vai ficar com loop infinito
 """
 cont = 1
 while True:
@@ -65,14 +65,13 @@ while True:
         break
     s += n
 print('A soma vale {}'.format(s))
-print(f'O resultado da soma é {s}')    # facilitando a linha de codigo 67, usando uma 'f string'
+print(f'O resultado da soma é {s}')  # facilitando a linha de codigo 67, usando uma 'f' string.
 
 nome = 'José'
 idade = 33
-salário = 1600.30
-print(f'O {nome} tem {idade} anos.')             # com o 'f string'      # Python 3.6+
-print('O {} tem {} anos.'.format(nome, idade))   # sem o 'f string'      # Python 3
-print('O %s tem %d anos.' % (nome, idade))       # jeito antigo usado no Python 2
-print(f'O {nome:^20} tem {idade:->10} e ganha R${salário:.2f}')
+salario = 1600.30
+print(f'O {nome} tem {idade} anos.')  # com o 'f string'      # Python 3.6+
+print('O {} tem {} anos.'.format(nome, idade))  # sem o 'f string'      # Python 3
+print('O %s tem %d anos.' % (nome, idade))  # jeito antigo usado no Python 2
+print(f'O {nome:^20} tem {idade:->10} e ganha R${salario:.2f}')
 #  '^' para centralizar / o número 20 são espaços / > ou < para alinhar a direita ou esquerda
-

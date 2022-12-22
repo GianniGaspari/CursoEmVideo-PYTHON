@@ -1,4 +1,4 @@
-######## ESTRUTURA DE REPETIÇÂO 'WHILE' #######
+#     ESTRUTURA DE REPETIÇÂO 'WHILE'     #
 
 
 # using "for/in"

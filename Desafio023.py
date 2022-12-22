@@ -1,5 +1,5 @@
 """
-Desafio023:
+Desafio 023:
 Faça um programa que leia um número de 0 a 9999 e mostre na leta, separadamente, cada um dos digitos.
 Ex.:
 Digite um número: 1834

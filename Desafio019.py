@@ -1,5 +1,5 @@
 """
-Desafio019:
+Desafio 019:
 Um profressor quer sortear 1 de seus 4 alunos para apagar o quadro.
 Faça um programa que ajude ele, lendo o nome deles, e escrevendo o nome do escolhido.
 """

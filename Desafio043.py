@@ -1,5 +1,5 @@
 """
-Desafio042:
+Desafio 042:
 Desenvolva uma logica que leia o peso e altura de uma pessoa
 e mostre seu status, de acordo com a tabela abaixo:
 - Abaixo de 18.5: ABAIXO DO PESO

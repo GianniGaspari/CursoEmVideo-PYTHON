@@ -1,4 +1,4 @@
-######## ESTRUTURA DE REPETIÇÃO 'FOR' ########
+#    ESTRUTURA DE REPETIÇÃO 'FOR'    #
 
 print('\033[33m-=-INÍCIO DA AULA\033[m'*10)
 for c in range(10, 0, -1):

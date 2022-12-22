@@ -1,5 +1,5 @@
 """
-Desafio062:
+Desafio 062:
 Melhore o DESAFIO 061, perguntando para o usuário se ele quer mostral mais alguns termos.
  O programa encerra qual ele disser que quer mostrar 0 termos(nenhum termo).
  """

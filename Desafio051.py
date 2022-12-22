@@ -1,5 +1,5 @@
 """
-Desafio051:
+Desafio 051:
 Desenvolva um programa que leia o
 primeiro termo e a razão de uma P.A.
 e no final mostre os 10 primeiros

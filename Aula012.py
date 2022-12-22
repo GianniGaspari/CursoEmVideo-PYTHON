@@ -1,4 +1,4 @@
-######## CONDIÇÕES ANINHADAS ########
+#    CONDIÇÕES ANINHADAS    #
 
 nome = str(input('Qual é seu nome? '))
 if nome == 'Gianni':

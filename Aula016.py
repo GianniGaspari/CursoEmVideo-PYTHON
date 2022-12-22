@@ -1,4 +1,4 @@
-########     Variáveis compostas → TUPLAS     #########
+######   Variáveis compostas → TUPLAS   #######
 
 
 # → As tuplas são imutáveis. Uma vez definida a Tupla, ela vai ficar assim até o final do programa.
