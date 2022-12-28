@@ -1,6 +1,6 @@
 #    ESTRUTURA DE REPETIÇÃO 'FOR'    #
 
-print('\033[33m-=-INÍCIO DA AULA\033[m'*10)
+print('\033[33mINÍCIO DA AULA\033[m')
 for c in range(10, 0, -1):
     print(c)
 print('-=-'*10)
