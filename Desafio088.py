@@ -7,7 +7,7 @@ O programa vai perguntar quantos jogos serão gerados e vai sortear
 
 from random import randint
 from time import sleep
-titulo = '\033[36mMEGA-SENA\033[m'
+titulo = '\033[4;36;51mMEGA-SENA\033[m'
 linha = '\033[33m*=\033[m'
 lista = []
 jogos = []
