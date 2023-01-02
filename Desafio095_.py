@@ -40,6 +40,6 @@ while True:
     else:
         print(f' -- LEVANTAMENTO DO JOGADOR {time[busca]["Nome"]}')
         for i, g in enumerate(time[busca]["Gols"]):
-            print(f'No {i+1}º jogo fez {g} gols')
+            print(f'No {i+1}º jogo fez: {g} gols')
     print('-'*40)
 print(' → → FIM DO PROGRAMA ← ← ')
