@@ -1,0 +1,2 @@
+#         FUNÇÕES parte 2          #
+
